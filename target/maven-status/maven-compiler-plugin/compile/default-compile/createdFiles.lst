@@ -1,0 +1,8 @@
+lpnu\dto\BookDTO.class
+lpnu\repository\BookRepository.class
+lpnu\service\BookService.class
+lpnu\mapper\BookToBookDTOMapper.class
+lpnu\service\impl\BookServiceImpl.class
+lpnu\Application.class
+lpnu\resource\BookResource.class
+lpnu\entity\Book.class
